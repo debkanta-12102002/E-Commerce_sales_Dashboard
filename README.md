@@ -1,8 +1,12 @@
 # E-Commerce_sales_Dashboard
+
 📊 Interactive Power BI dashboard for analyzing e-commerce sales data. Visualizes key metrics such as total sales, top products, regional performance, and monthly trends using slicers, custom visuals, and DAX. Ideal for business insights and decision-making.
 
 🎯 Objective
-To design an interactive Power BI dashboard that analyzes and visualizes key sales metrics for an e-commerce business, helping stakeholders make informed decisions based on product performance, sales trends, and regional insights.
+
+-->To design an interactive Power BI dashboard that analyzes and visualizes key sales metrics for an e-commerce business, helping stakeholders make informed decisions based on product performance, sales trends, and regional insights.
+
+
 
 
 🔍 Key Insights
@@ -19,6 +23,8 @@ To design an interactive Power BI dashboard that analyzes and visualizes key sal
 
 
 
+
+
 🛠️ Tools & Skills Used
 
 --> Power BI: For data modeling, DAX calculations, and building interactive visuals
@@ -26,6 +32,8 @@ To design an interactive Power BI dashboard that analyzes and visualizes key sal
 --> Data Visualization: Focused on storytelling through dynamic charts
 
 --> DAX: Used for KPI calculations like Total Sales, Average Sales, and more
+
+
 
 
 
