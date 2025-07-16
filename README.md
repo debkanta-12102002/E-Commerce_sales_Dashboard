@@ -32,6 +32,7 @@
  •	**Data Visualization**: Focused on storytelling through dynamic charts
 
  •	**DAX**: Used for KPI calculations like Total Sales, Average Sales, and more
+ 
 ---
 
 ## 📊 Dashboard Features
